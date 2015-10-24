@@ -1,0 +1,24 @@
+{
+  "name": "markedup",
+  "version": "0.1.0",
+  "description": "markedup base implementation",
+  "main": "./src/index.js",
+  "scripts": {
+    "run": "node ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alizain/markedup.git"
+  },
+  "author": "Alizain Feerasta",
+  "bugs": {
+    "url": "https://github.com/alizain/markedup/issues"
+  },
+  "homepage": "https://github.com/alizain/markedup#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.29",
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.7.3",
+    "eslint-plugin-react": "^3.6.3"
+  }
+}
