@@ -3,7 +3,7 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 # Thumbnails
 ._*
 
@@ -24,8 +24,3 @@ Temporary Items
 
 # Node specific things
 **/node_modules
-**/config/local.json
-
-# Development Junk
-**/_scratch
-**/_old
