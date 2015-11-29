@@ -1,5 +1,5 @@
 {
   "stage": 0,
   "strict": 2,
-  "whitelist": ["es6.modules", "es7.functionBind"]
+  "whitelist": ["es6", "es7.functionBind"]
 }
