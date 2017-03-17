@@ -1,6 +1,6 @@
 # COMPONENTS
 
-A list of components that the initial package of Markedup supports. Components are contained in families that enable a certain set of processing. They are different from Markdown because they don't translate directly to HTML 1:1. Instead, they have more semantic meaning to the document. The key here is to capture structure AND content in the document; the two are inseparable. Style is a completely separate concern, and thus is kept separate. Almost all of layout is also a separate concern, and hence is not part of main document.
+A list of components that the initial package of Markex supports. Components are contained in families that enable a certain set of processing. They are different from Markdown because they don't translate directly to HTML 1:1. Instead, they have more semantic meaning to the document. The key here is to capture structure AND content in the document; the two are inseparable. Style is a completely separate concern, and thus is kept separate. Almost all of layout is also a separate concern, and hence is not part of main document.
 
 
 **Paragraph** *content*

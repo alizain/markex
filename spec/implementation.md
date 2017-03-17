@@ -14,7 +14,7 @@ The core implementation is small and simple. It runs a number of passes over the
 
   The way this phase is architected, there is no constraint in implementing, for example, an iOS native translation, or any other, completely custom, rendering stack. In fact, because each component is rendered atomically, rendering stacks can be mixed and matched at runtime. The added benefit, is flexibility.
 
-  The rendering implementation allows for any standard component renderer function to be swapped at runtime by a custom renderer. This provides the ability to build completely custom components for very specific use cases. Consistent flexibility is a key goal in the design of Markedup.
+  The rendering implementation allows for any standard component renderer function to be swapped at runtime by a custom renderer. This provides the ability to build completely custom components for very specific use cases. Consistent flexibility is a key goal in the design of Markex.
 
     !!! Thing to Note: How does the language/implementation ensure that functionality isn't duplicated and there remains a canonical way to do certain things.
 

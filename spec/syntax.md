@@ -1,6 +1,6 @@
 # Syntax
 
-There are a couple parts of the Markedup syntax:
+There are a couple parts of the Markex syntax:
 - components
 - variables
 - include/extends
@@ -10,7 +10,7 @@ There are a couple parts of the Markedup syntax:
 
 ## COMPONENTS
 
-Everything is essentially a component in Markedup. All components have a longform, or `full` declaration. Some also have a `short` declaration.
+Everything is essentially a component in Markex. All components have a longform, or `full` declaration. Some also have a `short` declaration.
 
 
 **Things to Thing About**
